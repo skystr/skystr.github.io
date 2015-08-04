@@ -2,6 +2,33 @@ body {
     background-color : #fafafa;
 }
 
+ul {
+    list-style-type : none;
+    margin : 0;
+    padding : 0;
+    overflow : hidden;
+}
+
+li {
+    float : left;
+    width : 25%;
+}
+
+a:link, a:visited {
+    display : block;
+    color : #FFFFFF;
+    background-color : #545454;
+    text-align : center;
+    padding : 10px;
+    text-decoration : none;
+    text-transform : uppercase;
+    font-family : "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+a:hover, a:active {
+    background-color : #7A991A;
+}
+
 h1 {
     color : #545454;
     font-family : "Lucida Sans Unicode", "Lucida Grande", sans-serif;
