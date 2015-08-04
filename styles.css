@@ -1,4 +1,14 @@
 body {
-background: black;
-colour: #80x0x0
+    background-color : #fafafa;
+}
+
+h1 {
+    color : #545454;
+    font-family : "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size : 50px;
+}
+
+p {
+    color : #3f3f3f;
+    font-family : "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
