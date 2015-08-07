@@ -22,7 +22,7 @@ a:link, a:visited {
     padding : 10px;
     text-decoration : none;
     text-transform : uppercase;
-    font-family : "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-family : 'Myriad Set Pro', 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
 }
 
 a:hover, a:active {
@@ -31,11 +31,11 @@ a:hover, a:active {
 
 h1 {
     color : #545454;
-    font-family : "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-family : 'Myriad Set Pro', 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
     font-size : 50px;
 }
 
 p {
     color : #3f3f3f;
-    font-family : "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-family : 'Myriad Set Pro', 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
 }
